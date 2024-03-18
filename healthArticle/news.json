@@ -1,0 +1,49 @@
+{
+    "articles": [
+      {
+        "title": "Mexican 16-year-old Makes It To Math International Olympics",
+        "description": "This article discusses the story of a 16-year-old mexican and how he reached the last stage of the international MO.",
+        "key_concepts": [
+          "Training",
+          "Daily-practice",
+          "Mexican",    
+          "Math olympics"
+        ],
+        "link": "news/mexican-math-olympics.com"
+      },
+      {
+        "title": "Revolutionizing Connectivity: Quantum Internet Breakthrough",
+        "description": "This article discusses how quantum leap in internet speeds promises unprecedented connectivity.",
+        "key_concepts": [
+          "Quantum Computing",
+          "Internet Infrastructure",
+          "Encryption",    
+          "Data Trasnfer"
+        ],
+        "link": "news/quantum-leap.com"
+      },
+      {
+        "title": "AI's Next Frontier: Empathetic Machines Transforming Healthcare",
+        "description": "Artificial intelligence evolves to understand and respond to human emotions in healthcare.",
+        "key_concepts": [
+        "Artificial Intelligence",
+        "Healthcare Technology",
+        "Emotional Intelligence",
+        "Patient Care"
+        ],
+        "link":"news/machines-and-healthcare.com"
+      },
+      {
+        "title": "Breakthrough in Renewable Energy: Solar Cells Achieve Record Efficiency",
+        "description": "New solar cell technology promises higher efficiency for renewable energy generation.",
+        "key_concepts": [
+            "Renewable Energy",
+            "Solar Technology",
+            "Energy Efficiency",
+            "Sustainable Development"
+        ],
+        "link": "news/solar-cells.com"
+      }
+    ]
+  }
+  
